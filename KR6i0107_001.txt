@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:55.307788
+#+DATE: 2015-08-30 20:09:56.607201
 #+TITLE: 大乘頂王經
 #+PROPERTY: CBETA_ID T14n0478
 #+PROPERTY: ID KR6i0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 478
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0107_T_000-0597a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0107_T_001-0597a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.478[Nos.477,479]¶
-
- 大乘頂王經¶
+No. 478 [Nos. 477, 479]¶
+大乘頂王經¶
 ¶
 梁優禪尼國王子月婆首那譯¶
 
@@ -366,7 +365,7 @@ No.478[Nos.477,479]¶
 #+END_VERSE
 」¶
 
-爾時，童子而說偈言：¶
+爾時，童子面說偈言：¶
 
 #+BEGIN_VERSE
 「　「我不顧身命，
@@ -717,7 +716,7 @@ No.478[Nos.477,479]¶
 　法若有生者，
 　是則應有滅，
 <pb:KR6i0107_T_001-0601a>¶
-　生法及滅法，
+　生法又滅法，
 　此二不可得。¶
 　一切法悉空，
 　無法而可得，¶
