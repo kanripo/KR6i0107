@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘頂王經
+#+DATE: 2015-08-30 20:09:55.539125
+#+PROPERTY: JUAN 0
