@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 8:34
+#+DATE: 2016-06-08 8:35
 #+TITLE: 大乘頂王經
 #+PROPERTY: CBETA_ID T14n0478
 #+PROPERTY: ID KR6i0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 478
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0107_T_000-0597a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0107_T_001-0597a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
